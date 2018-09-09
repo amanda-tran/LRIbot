@@ -14,7 +14,7 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amandatran495/LRIbot/issues"
-  },george
+  },
   "homepage": "https://github.com/amandatran495/LRIbot#readme",
   "dependencies": {
     "request": "^2.79.0",
